@@ -6,7 +6,7 @@
 ## create virtual Environment
 
 
-    python -m venv <env_name>
+    python3 -m venv <env_name>
 
 
 
@@ -24,7 +24,7 @@
 Install project requirements with pip
 
 ```bash
-    pip install -r requirements.txt
+    pip3 install -r requirements.txt
 ```
     
 ## Run
